@@ -1,0 +1,10 @@
+- [x] Best Time to Buy and Sell Stock with Transaction Fee
+- [ ] Paint House
+- [ ] Paint House II
+- [ ] Paint House III
+- [ ] Count Vowels Permutation
+- [ ] Maximum Length of Repeated Subarray
+- [ ] Number of Dice Rolls With Target Sum
+- [ ] Domino and Tromino Tiling
+- [ ] Minimum Cost For Tickets
+- [ ] Interleaving String
